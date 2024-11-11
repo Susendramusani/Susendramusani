@@ -69,9 +69,5 @@ Dynamic data scientist with 2+ years of experience using machine learning to gen
 - **Data Ingestion with Python** (Oct 2023)  
 - **DevOps for Data Scientists** (Sep 2023)
 
-## How to Use This Repository
-
-This repository serves as a quick reference to Musani Susendranath Reddy's resume. You can use the information here to learn about my background, professional experience, and project portfolio.
-
 If you'd like to connect or collaborate, feel free to reach out via email or LinkedIn.
 
