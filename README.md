@@ -11,7 +11,8 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Professional Summary
 
-Dynamic data scientist with 2+ years of experience using machine learning to generate actionable insights and improve system performance. Proficient in Python, SQL, and advanced data visualization tools. Known for reducing operational downtime by 20% through model optimization and passionate about solving challenging problems in technology-focused environments.
+With two years of experience as a data analyst, I specialize in data visualization, cleansing, and analysis using Python, SQL, and Power BI. I handle massive datasets, streamline ETL procedures, and create interactive dashboards for data-driven decision-making. I've designed machine learning models, optimized data pipelines, and collaborated with stakeholders to increase client satisfaction. I've trained novice data scientists, enhancing model accuracy. My goal is to support corporate growth and innovation.
+
 
 ## Core Competencies
 
