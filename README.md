@@ -16,23 +16,26 @@ With two years of experience as a data analyst, I specialize in data visualizati
 
 ## Core Competencies
 
-- **Data Science & Machine Learning**: Predictive modeling, big data analytics, deep learning, statistical analysis
-- **Programming & Tools**: Python, SQL, AWS, TensorFlow, Matplotlib, Seaborn
-- **Data Engineering & Pipelines**: Streamlined data processing and optimization for faster time-to-insight
-- **AI Product Management**: Cross-functional collaboration, business planning, product lifecycle management
+- **Programming & Tools**: Python, SQL, R
+- **Data Management**:  NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, PyTorch, TensorFlow
+- **Databases**: MS SQL, MongoDB, MySQL, PostgreSQL
+- **Visualization Tools**: Microsoft Power BI, Tableau Desktop
+- **Cloud Platforms**: AWS(S3,EC2,IAM)
+- **Tools**: Jupyter Notebook, AWS, Power BI  
+- **Version Control**: Git/GitHub, Visual Studio
 
 ## Education
 
 ### University of New Haven (Tagliatela College of Engineering), West Haven, CT  
 - **Master of Science in Data Science**  
 - **Duration**: Aug 2023 – May 2025  
-- **Key Coursework**: Machine Learning, Deep Learning, NLP, Data Visualization, AI Leadership  
+- **Key Coursework**: Machine Learning, Deep Learning, NLP, Data Visualization, Artificial Intelligence 
 - **Achievements**: Dean’s List, 20% Dean Scholarship  
 
 ### Hindustan Institute of Technology and Science, Chennai, India  
 - **Bachelor of Technology in Electronics and Communication Engineering**  
 - **Duration**: July 2017 – Apr 2021  
-- **Key Coursework**: Engineering Mathematics, Control Systems, Internet of Things  
+- **Key Coursework**: Engineering Mathematics, Control Systems, Internet of Things,Signals & Systems,Controls & Systems
 - **Achievements**: Dean’s List, 75% Merit Scholarship  
 
 ## Professional Experience
@@ -40,29 +43,44 @@ With two years of experience as a data analyst, I specialize in data visualizati
 ### Atos Global IT Solutions and Services, Chennai, Tamil Nadu  
 - **Senior Associate Engineer, Data Science**  
 - **Duration**: Nov 2021 – Aug 2023  
-- **Key Contributions**:  
-  - Increased model accuracy by 25%  
-  - Boosted pipeline efficiency by 30%  
-  - Improved client satisfaction by 15%  
-  - Automated reporting, reducing manual reporting time by 20%  
+- **Key Contributions**:
+- Large datasets were analysed using SQL and Python to provide insights for business decision-making.
+- Created dynamic dashboards and reports in Power BI to visualize critical performance data.
+- Designed and implemented ETL processes to extract, transform, and load data from multiple sources.
+- Developed and deployed machine learning models that improved decision-making and increased operational efficiency by 25%.
+- Streamlined and automated data pipelines, boosting processing speed and overall system performance by 30%.
+- Conducted exploratory data analysis (EDA) and visualized data insights using Python and Power BI.
+- Collaborated with business stakeholders to create data-driven solutions, resulting in a 15% improvement in client satisfaction.
+- Mentored junior data scientists and enhanced model accuracy by 25%, leading to improved predictions and insights
+  
 
 ## Data Science Projects
 
-- **Tic-Tac-Toe AI Tournament**  
-  Developed AI agents using Minimax, Expectimax, and Q-Learning algorithms to increase win rates by 30%.
+- **Tic-Tac-Toe AI Tournament**
+- To boost competitiveness, we created four distinct Tic-Tac-Toe agents that used Minimax, Alpha-Beta,Minimax, Expectimax, and Q-Learning algorithms.
+- Algorithmic upgrades resulted in a 30% increase in victory rates over the baseline random agent.
+- Conducted a tournament with over 100 matches, keeping track of performance metrics like win rates, drawrates, and agent efficiency.
+- Optimized match experience with an average time of less than three minutes, increasing engagement.
+- Created an interactive console interface for agent selection and match execution, which improved user experience and accessibility.
+
+
+
+- **Image Generation Using Diffusion Probabilistic Models**
+- This study focuses on image processing approaches and neural network models for item detection, including preprocessing, autoencoder-based feature extraction, and pre-trained CNNs.
+- The InceptionV3 model extracts features, which are then used to calculate cosine similarity and find comparable images.
+- The autoencoder develops a compact representation and captures crucial visual information despite significant loss.
+- The InceptionV3 model excels at feature extraction and efficient transfer learning for image recognition.
+- Future refinements could enhance these tactics for real-world applications.
+
+
+- **Object Detec􀆟on of Sunglasses and Cap Using Faster R-CNN**
+- The project aims to recognize sunglasses and caps using a fine-tuned Faster R-CNN model, a special dataset,and advanced data preprocessing methods.
+- The impact of upgrading to ResNet-50 with an FPN backbone is examined, with a focus on increased feature extraction across several scales and higher performance in complicated scenes with occlusions and overlapping objects.
+- Customizing the prediction head with FastRCNNPredictor greatly increased mean Average Precision (mAP) by allowing for greater class distinction and bounding box localiza􀆟on.
+- The report compares pre- and post-training performance, analysing training loss, mAP, and the effectiveness of fine-tuning and hyperparameter tweaking.
+- Ethical considerations are handled, ensuring that the dataset was anonymized, no personally identifying information was obtained, and that it is only used for educational and scientific purposes.
+
   
-- **Time Series Analysis on Store Item Demand Forecasting**  
-  Increased forecasting accuracy by 25% and reduced forecast errors by 15% using ARIMA and SARIMA models.
-
-- **Image Generation Using Diffusion Probabilistic Models**  
-  Implemented image preprocessing and feature extraction with autoencoders and pre-trained CNNs for image recognition.
-
-## Skills
-
-- **Programming Languages**: Python, C, SQL  
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas  
-- **Tools**: Jupyter Notebook, AWS, Power BI  
-- **Version Control**: Git/GitHub, Visual Studio
 
 ## Certifications
 
