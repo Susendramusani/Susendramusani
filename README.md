@@ -43,7 +43,7 @@ With two years of experience as a data analyst, I specialize in data visualizati
 ### Atos Global IT Solutions and Services, Chennai, Tamil Nadu  
 - **Senior Associate Engineer, Data Science**  
 - **Duration**: Nov 2021 – Aug 2023  
-- **Key Contributions**:
+- ***Key Contributions***:
 - Large datasets were analysed using SQL and Python to provide insights for business decision-making.
 - Created dynamic dashboards and reports in Power BI to visualize critical performance data.
 - Designed and implemented ETL processes to extract, transform, and load data from multiple sources.
