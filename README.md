@@ -73,7 +73,7 @@ With two years of experience as a data analyst, I specialize in data visualizati
 - Future refinements could enhance these tactics for real-world applications.
 
 
-- **Object Detec􀆟on of Sunglasses and Cap Using Faster R-CNN**
+- **Object Detection of Sunglasses and Cap Using Faster R-CNN**
 - The project aims to recognize sunglasses and caps using a fine-tuned Faster R-CNN model, a special dataset,and advanced data preprocessing methods.
 - The impact of upgrading to ResNet-50 with an FPN backbone is examined, with a focus on increased feature extraction across several scales and higher performance in complicated scenes with occlusions and overlapping objects.
 - Customizing the prediction head with FastRCNNPredictor greatly increased mean Average Precision (mAP) by allowing for greater class distinction and bounding box localiza􀆟on.
