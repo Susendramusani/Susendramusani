@@ -89,7 +89,7 @@ With two years of experience as a data analyst, I specialize in data visualizati
 - **DevOps for Data Scientists**                                (Sep 2023)
 - **Machine Learning with Scikit-Learn**                        (Nov 2023)
 - **MLOps Essentials: Model Development and Integration**       (Apr 2024)
-- **MLOps Essen􀆟als: Model Deployment and Monitoring**          (Apr 2024)   
+- **MLOps Essentials: Model Deployment and Monitoring**          (Apr 2024)   
 
 If you'd like to connect or collaborate, feel free to reach out via email or LinkedIn.
 
