@@ -46,19 +46,28 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Professional Experience
 
-### Atos Global IT Solutions and Services, Chennai, Tamil Nadu  
-- **Senior Associate Engineer, Data Science**  
-- **Duration**: Nov 2021 – Aug 2023  
+### CVS Health, CT | Data Analyst  | May 2024 – Present
 - ***Key Contributions***:
-- Large datasets were analysed using SQL and Python to provide insights for business decision-making.
-- Created dynamic dashboards and reports in Power BI to visualize critical performance data.
-- Designed and implemented ETL processes to extract, transform, and load data from multiple sources.
-- Developed and deployed machine learning models that improved decision-making and increased operational efficiency by 25%.
-- Streamlined and automated data pipelines, boosting processing speed and overall system performance by 30%.
-- Conducted exploratory data analysis (EDA) and visualized data insights using Python and Power BI.
-- Collaborated with business stakeholders to create data-driven solutions, resulting in a 15% improvement in client satisfaction.
-- Mentored junior data scientists and enhanced model accuracy by 25%, leading to improved predictions and insights
-  
+- Engineered scalable, end-to-end ETL pipelines using Azure Data Factory, enabling automated ingestion and transformation of high-volume clinical (Epic, Cerner), pharmacy, and third-party health data into Azure-based analytical environments.
+- Built parameterized, reusable pipeline templates to support dynamic data orchestration across multiple sources and workflows, significantly reducing manual development effort and improving system maintainability.
+- Leveraged Python (Pandas, NumPy) for robust data cleaning, anomaly detection, and transformation of pharmacy claims and clinical encounter data, improving dataset consistency and completeness by 13%.
+- Created Power BI dashboards to deliver real-time insights on key health KPIs such as medication adherence, blood pressure control, and HbA1c levels, supporting STAR ratings tracking and care program performance analysis.
+- Developed and deployed a logistic regression model to identify members at high risk for uncontrolled diabetes (HbA1c > 8), integrating predictive features from EHRs, refill patterns, and clinical visits to support targeted care interventions.
+- Utilized Spark on Azure Databricks to scale predictive analytics workloads across millions of member records, optimizing model performance and accelerating risk stratification processes.
+- Reduced end-to-end data pipeline latency by 5% through optimization of data partitioning, query tuning, and scheduling across Azure Data Lake and Databricks layers.
+- Collaborated with cross-functional teams in an Agile environment, including pharmacy operations, MinuteClinic, and analytics governance, to refine data definitions, reporting cadence, and business logic alignment across CVS Health units.
+
+#### Deloitte, India | Data Analyst | Jun 2020 – Aug 2023
+- ***Key Contributions***:
+- Developed interactive Tableau dashboards to visualize credit risk metrics such as default probability, loan delinquency trends, and repayment behavior across customer segments, enabling leadership to drive data-backed lending strategies.
+- Performed exploratory data analysis (EDA) using SQL and Python (Pandas, Seaborn) to uncover borrower patterns and financial risk indicators, which led to a 12% increase in model accuracy by incorporating high-impact features like income stability, credit score, and repayment history.
+- Designed and deployed scalable ETL pipelines to extract, cleanse, and consolidate data from internal databases, third-party credit bureaus, and CRM systems, ensuring high-quality data flow for real-time risk assessment.
+- Applied K-Means clustering to segment over 100,000 borrowers based on loan behavior and financial profiles, identifying four actionable personas that informed targeted credit product strategies and improved risk segmentation.
+- Implemented Amazon S3-based data storage architecture with intelligent partitioning, versioning, and retention policies, which enhanced query performance and reduced data retrieval time and cloud storage costs.
+- Utilized Apache Spark for distributed ETL of 500,000+ loan records, improving batch processing speed and model training scalability by 5% over traditional ETL tools.
+- Led the design and implementation of a centralized data warehouse, integrating siloed customer, transactional, and loan datasets into a single reporting environment, boosting reporting efficiency by 20%.
+- Executed A/B testing across multiple alternative scoring models, resulting in a 10% uplift in default prediction performance and guiding enhancements in underwriting policies.
+- Automated repetitive financial data preparation and reporting tasks using Excel VBA, reducing manual effort by 20+ hours per week and decreasing reporting errors by 65%, significantly improving operational productivity.
 
 ## Data Science Projects
 
