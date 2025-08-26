@@ -5,24 +5,30 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 ## Contact Information
 
 - **Phone:** +1 (203) 654-5666
-- **Email:** susendramusani@gmail.com
+- **Email:** m.susendra123@gmail.com
 - **LinkedIn:** [Musani Susendranath Reddy](https://www.linkedin.com/in/musani-susendranath-reddy-ab6494201)
 - **GitHub:** [Susendramusani](https://github.com/Susendramusani)
 
 ## Professional Summary
 
-With two years of experience as a data analyst, I specialize in data visualization, cleansing, and analysis using Python, SQL, and Power BI. I handle massive datasets, streamline ETL procedures, and create interactive dashboards for data-driven decision-making. I've designed machine learning models, optimized data pipelines, and collaborated with stakeholders to increase client satisfaction. I've trained novice data scientists, enhancing model accuracy. My goal is to support corporate growth and innovation.
-
+- Data Analyst with around 4 years of experience in leveraging SQL, Python, and SAS for data manipulation, advanced analytics, and predictive modeling to drive actionable insights.
+- Proficient in building interactive dashboards using Tableau, Power BI, and Excel (VBA, Pivot Tables, Power Query) for performance monitoring and executive reporting.
+- Strong background in ETL development, data transformation, and data warehousing using tools such as Snowflake, Redshift, SQL Server, and Oracle.
+- Experienced with big data ecosystems including Hadoop, Spark, AWS, and Azure Databricks to manage and process high-volume datasets efficiently.
+- Hands-on in machine learning techniques such as clustering, classification, and regression using Scikit-learn, TensorFlow, and statistical modeling for forecasting and decision support.
+- Domain expertise in healthcare and finance, with practical exposure to EHR systems (Epic, Cerner) and credit risk analysis, ensuring compliance with HIPAA and GDPR standards.
+- Skilled in conducting A/B testing, data mining, data storytelling, and stakeholder collaboration in Agile and cross-functional environments.
+- Adept in using cloud platforms (AWS, Azure) and automation tools like Azure Data Factory, SSIS, and Alteryx to streamline pipelines and improve data quality and availability.
 
 ## Core Competencies
 
-- **Programming & Tools**: Python, SQL, R
-- **Data Management**:  NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, Seaborn, PyTorch, TensorFlow
-- **Databases**: MS SQL, MongoDB, MySQL, PostgreSQL
-- **Visualization Tools**: Microsoft Power BI, Tableau Desktop
-- **Cloud Platforms**: AWS(S3,EC2,IAM)
-- **Tools**: Jupyter Notebook, AWS, Power BI  
-- **Version Control**: Git/GitHub, Visual Studio
+- **Programming & Scripting**: Python, SQL, SAS, R, Scala, VBA
+- **Data Analysis & Statistical Tools**:  Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib, ggplot2, Excel (Advanced: Pivot Tables, Power Query, VLOOKUP), Regression Analysis, Classification, Clustering, ANOVA, Hypothesis Testing, Confidence Intervals, Probability Distributions, Forecasting, Advanced Analytics
+- **Visualization & BI Tools**: Tableau, Power BI, SSRS, Excel (Dashboards, VBA Automation), Data Storytelling
+- **Data Engineering & ETL:**: ETL Pipelines, Data Cleaning, Data Wrangling, Data Transformation, Azure Data Factory, Apache Spark, Informatica, SSIS, Alteryx
+- **Databases & Data Warehousing**: MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Snowflake, Amazon Redshift
+- **Big Data & Cloud Technologies**: Jira, GitHub, ServiceNow, UAT Testing, Agile & Scrum, SDLC, Waterfall, A/B Testing 
+- **Domain Expertise**: Healthcare Analytics (EHR Systems – Epic, Cerner), Financial Analytics (Credit Risk, Loan Performance, Financial Modeling), Regulatory Compliance (HIPAA, GDPR), Supply Chain Analytics
 
 ## Education
 
