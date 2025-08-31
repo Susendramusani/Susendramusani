@@ -1,4 +1,4 @@
-## Musani Susendranath Reddy - Data Scientist
+## Musani Susendranath Reddy - Data Analyst
 
 Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repository contains information about my professional experience, education, technical skills, and data science projects.
 
