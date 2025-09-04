@@ -4,7 +4,7 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Contact Information
 
-- **Phone:** +1 (203) 654-5666
+- **Phone:** +1 (551) 465-6084
 - **Email:** m.susendra123@gmail.com
 - **LinkedIn:** [Musani Susendranath Reddy](https://www.linkedin.com/in/musani-susendranath-reddy-ab6494201)
 - **GitHub:** [Susendramusani](https://github.com/Susendramusani)
@@ -99,12 +99,11 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Certifications
 
-- **Python for Data Visualization**                             (Oct 2023)  
-- **Data Ingestion with Python**                                (Oct 2023)  
-- **DevOps for Data Scientists**                                (Sep 2023)
-- **Machine Learning with Scikit-Learn**                        (Nov 2023)
-- **MLOps Essentials: Model Development and Integration**       (Apr 2024)
-- **MLOps Essentials: Model Deployment and Monitoring**          (Apr 2024)   
+- **Microsoft Excel Dashboards & Data Visualization** 
+- **Mastery Data Science Job Simulation**
+- **Python 101 for Data Science**
+- **Data Analytics Job Simulation**
+- **Data Science Bootcamp**
 
 If you'd like to connect or collaborate, feel free to reach out via email or LinkedIn.
 
