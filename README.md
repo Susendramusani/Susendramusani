@@ -168,12 +168,99 @@ Applicable to HIPAA-compliant deployment environments when integrated into secur
 ---
 
 
-- **Tic-Tac-Toe AI Tournament**
-- To boost competitiveness, we created four distinct Tic-Tac-Toe agents that used Minimax, Alpha-Beta,Minimax, Expectimax, and Q-Learning algorithms.
-- Algorithmic upgrades resulted in a 30% increase in victory rates over the baseline random agent.
-- Conducted a tournament with over 100 matches, keeping track of performance metrics like win rates, drawrates, and agent efficiency.
-- Optimized match experience with an average time of less than three minutes, increasing engagement.
-- Created an interactive console interface for agent selection and match execution, which improved user experience and accessibility.
+# ♟️ Multi-Agent Tic-Tac-Toe AI Tournament
+
+An AI project implementing and evaluating multiple intelligent Tic-Tac-Toe agents in a tournament-based simulation framework to compare strategy performance, decision-making efficiency, and win-rate optimization.
+
+---
+
+## 🚀 Project Overview
+
+This project implements a competitive environment where multiple AI agents compete in a structured tournament setting. Each agent follows a different decision-making strategy, allowing performance benchmarking and comparative evaluation.
+
+The objective was to analyze agent intelligence, strategic depth, and optimal gameplay behavior.
+
+---
+
+## 🧠 Implemented Agents
+
+- 🔹 Random Agent (baseline)
+- 🔹 Rule-Based Agent
+- 🔹 Minimax Algorithm Agent
+- 🔹 Alpha-Beta Pruning Agent
+- 🔹 Heuristic-Based Agent
+- 🔹 Reinforcement Learning Agent (if applicable)
+
+---
+
+## 🏗️ System Architecture
+
+1. Game Engine
+2. Agent Strategy Modules
+3. Tournament Simulator
+4. Performance Evaluation Module
+5. Metrics & Visualization
+
+---
+
+## 📊 Key Features
+
+- Multi-agent tournament simulation
+- Strategic decision-tree implementation
+- Minimax with Alpha-Beta optimization
+- Win-rate benchmarking across agents
+- Performance metrics comparison
+- Automated game loop simulation
+
+---
+
+## 📈 Evaluation Metrics
+
+- Win Rate
+- Draw Rate
+- Loss Rate
+- Move Efficiency
+- Computational Complexity
+- Decision Time per Move
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Object-Oriented Programming
+- Algorithmic Game Theory
+- Matplotlib (for visualization)
+
+---
+
+## 🧪 Sample Result
+
+The Minimax + Alpha-Beta agent consistently outperformed heuristic and random agents, achieving near-optimal win rates in tournament simulations.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Multi-agent system design
+- Game theory fundamentals
+- Adversarial search algorithms
+- Performance benchmarking
+- Optimization techniques
+
+---
+
+## 🔮 Future Enhancements
+
+- Deep Reinforcement Learning agent
+- Monte Carlo Tree Search (MCTS)
+- Neural Network-based evaluation
+- Scaling to larger board games
+- Web-based deployment
+
+---I
+
 
 
 
