@@ -17,14 +17,29 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Core Competencies
 
-- **Programming & Scripting**: Python, SQL, SAS, R, Scala, VBA
-- **Data Analysis & Statistical Tools**:  Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib, ggplot2, Excel (Advanced: Pivot Tables, Power Query, VLOOKUP), Regression Analysis, Classification, Clustering, ANOVA, Hypothesis Testing, Confidence Intervals, Probability Distributions, Forecasting, Advanced Analytics
-- **Visualization & BI Tools**: Tableau, Power BI, SSRS, Excel (Dashboards, VBA Automation), Data Storytelling
-- **Data Engineering & ETL:**: ETL Pipelines, Data Cleaning, Data Wrangling, Data Transformation, Azure Data Factory, Apache Spark, Informatica, SSIS, Alteryx
-- **Databases & Data Warehousing**: MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Snowflake, Amazon Redshift
-- **Big Data & Cloud Technologies**: Jira, GitHub, ServiceNow, UAT Testing, Agile & Scrum, SDLC, Waterfall, A/B Testing 
-- **Domain Expertise**: Healthcare Analytics (EHR Systems – Epic, Cerner), Financial Analytics (Credit Risk, Loan Performance, Financial Modeling), Regulatory Compliance (HIPAA, GDPR), Supply Chain Analytics
+- **AI & Machine Learning Engineering:**
+Supervised & Unsupervised Learning, Deep Learning, NLP, Large Language Models (LLMs), RAG Architectures, Prompt Engineering, Embeddings, Semantic Search, Model Optimization, Feature Engineering, Model Evaluation, A/B Testing
 
+- **Programming & Frameworks:**
+Python, SQL, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LangChain, LangGraph, FastAPI, Flask
+
+- **Data Engineering & Distributed Systems:**
+Apache Spark, Airflow, Kafka, ETL/ELT Pipelines, Data Wrangling, Data Transformation, Batch & Streaming Processing
+
+- **MLOps & Deployment:**
+Docker, Kubernetes, MLflow, GitHub Actions (CI/CD), Model Versioning, REST APIs, Microservices Architecture
+
+- **Databases & Vector Stores:**
+PostgreSQL, MySQL, SQL Server, MongoDB, Snowflake, Amazon Redshift, FAISS
+
+- **Cloud Platforms:**
+AWS (SageMaker, S3, EC2, Lambda), GCP (Vertex AI), Azure (Azure ML, Data Factory)
+
+- **Visualization & Business Intelligence:**
+Power BI, Tableau, Excel (Advanced), Data Storytelling
+
+- **Domain Expertise:**
+Healthcare Analytics (EHR – Epic, Cerner), Financial Analytics (Credit Risk, Loan Performance), Regulatory Compliance (HIPAA, GDPR)
 ## Education
 
 ### University of New Haven (Tagliatela College of Engineering), West Haven, CT  
