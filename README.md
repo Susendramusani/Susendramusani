@@ -89,6 +89,85 @@ Healthcare Analytics (EHR – Epic, Cerner), Financial Analytics (Credit Risk, L
 - Collaborated with cross-functional stakeholders including risk, underwriting, and product teams in Agile environments to translate business requirements into scalable AI-driven solutions.
 ## Data Science Projects
 
+# 🩺 Medical-to-Human Language Translator (LLM-Based NLP System)
+
+An AI-powered NLP system that translates complex medical terminology and clinical text into simplified, patient-friendly language using Transformer-based models and prompt engineering techniques.
+
+---
+
+## 🚀 Project Overview
+
+Healthcare documentation is often difficult for patients to understand. This project leverages Large Language Models (LLMs) and NLP pipelines to automatically convert complex medical jargon into clear, human-readable explanations while preserving clinical meaning.
+
+The system can process:
+- Clinical notes
+- Diagnostic reports
+- Prescription instructions
+- Medical terminology
+
+---
+
+## 🧠 Key Features
+
+- 🔹 Transformer-based text simplification
+- 🔹 Prompt engineering for controlled medical translation
+- 🔹 Context-aware sentence restructuring
+- 🔹 Preservation of clinical accuracy
+- 🔹 Batch processing capability
+- 🔹 Evaluation using readability metrics
+
+---
+
+## 🏗️ Architecture
+
+1. Input medical text
+2. Preprocessing & tokenization
+3. LLM-based translation pipeline
+4. Post-processing for clarity
+5. Output simplified explanation
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Hugging Face Transformers
+- GPT-based architectures
+- Pandas, NumPy
+- PyTorch
+- Scikit-learn (evaluation metrics)
+- Jupyter Notebook
+
+---
+
+## 📊 Example
+
+**Input:**  
+"Patient exhibits elevated HbA1c levels indicative of uncontrolled Type 2 Diabetes."
+
+**Output:**  
+"Your blood sugar levels have been higher than normal over the past few months, which suggests your diabetes is not currently well controlled."
+
+---
+
+## 📈 Use Cases
+
+- Patient-facing health portals
+- Clinical documentation simplification
+- Healthcare chatbots
+- Medical education platforms
+- Digital health applications
+
+---
+
+## 🔐 Compliance Considerations
+
+Designed with healthcare data sensitivity in mind.  
+Applicable to HIPAA-compliant deployment environments when integrated into secure infrastructure.
+
+---
+
+
 - **Tic-Tac-Toe AI Tournament**
 - To boost competitiveness, we created four distinct Tic-Tac-Toe agents that used Minimax, Alpha-Beta,Minimax, Expectimax, and Q-Learning algorithms.
 - Algorithmic upgrades resulted in a 30% increase in victory rates over the baseline random agent.
