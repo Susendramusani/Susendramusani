@@ -56,16 +56,21 @@ Healthcare Analytics (EHR – Epic, Cerner), Financial Analytics (Credit Risk, L
 
 ## Professional Experience
 
-### CVS Health, CT | Data Analyst  | May 2024 – Present
+### Pfizer, CT | AI/ML Engineer | May 2024 – Present
 - ***Key Contributions***:
-- Engineered scalable, end-to-end ETL pipelines using Azure Data Factory, enabling automated ingestion and transformation of high-volume clinical (Epic, Cerner), pharmacy, and third-party health data into Azure-based analytical environments.
-- Built parameterized, reusable pipeline templates to support dynamic data orchestration across multiple sources and workflows, significantly reducing manual development effort and improving system maintainability.
-- Leveraged Python (Pandas, NumPy) for robust data cleaning, anomaly detection, and transformation of pharmacy claims and clinical encounter data, improving dataset consistency and completeness by 13%.
-- Created Power BI dashboards to deliver real-time insights on key health KPIs such as medication adherence, blood pressure control, and HbA1c levels, supporting STAR ratings tracking and care program performance analysis.
-- Developed and deployed a logistic regression model to identify members at high risk for uncontrolled diabetes (HbA1c > 8), integrating predictive features from EHRs, refill patterns, and clinical visits to support targeted care interventions.
-- Utilized Spark on Azure Databricks to scale predictive analytics workloads across millions of member records, optimizing model performance and accelerating risk stratification processes.
-- Reduced end-to-end data pipeline latency by 5% through optimization of data partitioning, query tuning, and scheduling across Azure Data Lake and Databricks layers.
-- Collaborated with cross-functional teams in an Agile environment, including pharmacy operations, MinuteClinic, and analytics governance, to refine data definitions, reporting cadence, and business logic alignment across CVS Health units.
+- Architected and deployed enterprise-scale AI and predictive analytics solutions to process 100+ TB of structured and unstructured clinical, research, and operational data, enabling real-time insights across drug development and patient analytics initiatives.
+
+- Designed scalable data pipelines using Apache Spark and Airflow to automate ingestion, feature engineering, and model training workflows, reducing manual processing time and improving model deployment efficiency.
+
+- Developed and optimized machine learning models (XGBoost, Scikit-learn, PyTorch) for clinical outcome prediction, risk stratification, and operational forecasting, improving predictive accuracy and accelerating data-driven decision-making.
+
+- Integrated LLM-driven NLP pipelines using Hugging Face Transformers and GPT-based architectures to extract insights from scientific literature, clinical notes, and regulatory documents, enhancing information retrieval and summarization efficiency.
+
+- Built and deployed RESTful AI services using FastAPI and Docker, enabling secure, scalable model inference across enterprise systems while ensuring compliance with HIPAA, GDPR, and pharmaceutical data governance standards.
+
+- Implemented MLflow-based experiment tracking, model versioning, and CI/CD workflows (GitHub Actions), strengthening reproducibility and accelerating model lifecycle management.
+
+- Collaborated with cross-functional stakeholders including clinical research, regulatory, and data engineering teams to align AI solutions with business objectives and global compliance requirements.
 
 #### Deloitte, India | Data Analyst | Jun 2020 – Aug 2023
 - ***Key Contributions***:
