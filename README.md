@@ -4,8 +4,8 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Contact Information
 
-- **Phone:** +1 (551) 465-6084
-- **Email:** m.susendra123@gmail.com
+- **Phone:** +1 (732) 629-9361
+- **Email:** susendrareddymusani@gmail.com
 - **LinkedIn:** [Musani Susendranath Reddy](https://www.linkedin.com/in/musani-susendranath-reddy-ab6494201)
 - **GitHub:** [Susendramusani](https://github.com/Susendramusani)
 
