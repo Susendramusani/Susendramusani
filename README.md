@@ -11,14 +11,9 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Professional Summary
 
-- Data Analyst with around 4 years of experience in leveraging SQL, Python, and SAS for data manipulation, advanced analytics, and predictive modeling to drive actionable insights.
-- Proficient in building interactive dashboards using Tableau, Power BI, and Excel (VBA, Pivot Tables, Power Query) for performance monitoring and executive reporting.
-- Strong background in ETL development, data transformation, and data warehousing using tools such as Snowflake, Redshift, SQL Server, and Oracle.
-- Experienced with big data ecosystems including Hadoop, Spark, AWS, and Azure Databricks to manage and process high-volume datasets efficiently.
-- Hands-on in machine learning techniques such as clustering, classification, and regression using Scikit-learn, TensorFlow, and statistical modeling for forecasting and decision support.
-- Domain expertise in healthcare and finance, with practical exposure to EHR systems (Epic, Cerner) and credit risk analysis, ensuring compliance with HIPAA and GDPR standards.
-- Skilled in conducting A/B testing, data mining, data storytelling, and stakeholder collaboration in Agile and cross-functional environments.
-- Adept in using cloud platforms (AWS, Azure) and automation tools like Azure Data Factory, SSIS, and Alteryx to streamline pipelines and improve data quality and availability.
+- AI/ML Engineer with 4+ years of experience delivering production-grade machine learning and Generative AI solutions, including enterprise-scale NLP systems that improved document processing efficiency by 40% and reduced manual review time by 30%.
+- Proven track record of building scalable ML pipelines using Spark, Airflow, FastAPI, and cloud platforms (AWS/GCP/Azure), enabling high-performance data processing across 100+ TB structured and unstructured datasets.
+- Specialized in LLMs, RAG architectures, and multimodal search systems, having deployed embedding-based semantic search and transformer-driven applications that enhanced retrieval accuracy and reduced inference latency in real-world enterprise environments.
 
 ## Core Competencies
 
