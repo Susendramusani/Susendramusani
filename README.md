@@ -72,18 +72,21 @@ Healthcare Analytics (EHR – Epic, Cerner), Financial Analytics (Credit Risk, L
 
 - Collaborated with cross-functional stakeholders including clinical research, regulatory, and data engineering teams to align AI solutions with business objectives and global compliance requirements.
 
-#### Deloitte, India | Data Analyst | Jun 2020 – Aug 2023
+#### Capgemini, India | AI/ML Engineer | Jun 2020 – Aug 2023
 - ***Key Contributions***:
-- Developed interactive Tableau dashboards to visualize credit risk metrics such as default probability, loan delinquency trends, and repayment behavior across customer segments, enabling leadership to drive data-backed lending strategies.
-- Performed exploratory data analysis (EDA) using SQL and Python (Pandas, Seaborn) to uncover borrower patterns and financial risk indicators, which led to a 12% increase in model accuracy by incorporating high-impact features like income stability, credit score, and repayment history.
-- Designed and deployed scalable ETL pipelines to extract, cleanse, and consolidate data from internal databases, third-party credit bureaus, and CRM systems, ensuring high-quality data flow for real-time risk assessment.
-- Applied K-Means clustering to segment over 100,000 borrowers based on loan behavior and financial profiles, identifying four actionable personas that informed targeted credit product strategies and improved risk segmentation.
-- Implemented Amazon S3-based data storage architecture with intelligent partitioning, versioning, and retention policies, which enhanced query performance and reduced data retrieval time and cloud storage costs.
-- Utilized Apache Spark for distributed ETL of 500,000+ loan records, improving batch processing speed and model training scalability by 5% over traditional ETL tools.
-- Led the design and implementation of a centralized data warehouse, integrating siloed customer, transactional, and loan datasets into a single reporting environment, boosting reporting efficiency by 20%.
-- Executed A/B testing across multiple alternative scoring models, resulting in a 10% uplift in default prediction performance and guiding enhancements in underwriting policies.
-- Automated repetitive financial data preparation and reporting tasks using Excel VBA, reducing manual effort by 20+ hours per week and decreasing reporting errors by 65%, significantly improving operational productivity.
+- Designed, developed, and deployed machine learning models for credit risk prediction and loan default forecasting using Scikit-learn and XGBoost, improving model accuracy by 12% and strengthening underwriting decision frameworks.
 
+- Engineered scalable ETL and feature engineering pipelines using Python, SQL, and Apache Spark to process 500,000+ loan and transactional records, enhancing distributed model training efficiency and data reliability.
+
+- Applied unsupervised learning techniques (K-Means clustering) to segment 100,000+ customers based on financial behavior and risk profiles, enabling targeted credit product strategies and improved portfolio risk management.
+
+- Built centralized data warehouse solutions integrating siloed customer, transactional, and third-party bureau datasets, improving enterprise reporting efficiency by 20% and enabling real-time risk analytics.
+
+- Conducted A/B testing and model validation across alternative scoring strategies, achieving a 10% uplift in predictive performance and optimizing risk threshold calibration.
+
+- Implemented AWS S3-based cloud data storage architecture with intelligent partitioning and lifecycle policies, reducing query latency and lowering cloud storage costs.
+
+- Collaborated with cross-functional stakeholders including risk, underwriting, and product teams in Agile environments to translate business requirements into scalable AI-driven solutions.
 ## Data Science Projects
 
 - **Tic-Tac-Toe AI Tournament**
