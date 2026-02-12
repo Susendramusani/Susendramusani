@@ -259,17 +259,81 @@ The Minimax + Alpha-Beta agent consistently outperformed heuristic and random ag
 - Scaling to larger board games
 - Web-based deployment
 
----I
 
 
+# 🚗 Stanford Cars Image Classification using Deep Learning
+
+A deep learning computer vision project that classifies car models from the Stanford Cars dataset using Convolutional Neural Networks (CNNs) and transfer learning techniques.
+
+---
+
+## 🚀 Project Overview
+
+This project builds and evaluates high-performance image classification models to distinguish between multiple fine-grained car categories using deep learning.
+
+The Stanford Cars dataset contains 16,000+ images across 196 car classes, making it a challenging fine-grained visual recognition problem.
+
+---
+
+## 🧠 Key Objectives
+
+- Implement CNN-based image classification
+- Apply transfer learning for improved accuracy
+- Optimize model generalization
+- Reduce overfitting using regularization techniques
+- Benchmark multiple architectures
+
+---
+
+## 🏗️ Model Architecture
+
+- Pretrained CNN backbone (ResNet / VGG / EfficientNet)
+- Fully connected classification head
+- Dropout regularization
+- Batch normalization
+- Softmax output layer
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- PyTorch / TensorFlow
+- torchvision
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn (evaluation metrics)
+
+---
+
+## 📊 Dataset
+
+- Stanford Cars Dataset
+- 196 fine-grained car categories
+- ~16,000 labeled images
+- High inter-class similarity (challenging dataset)
+
+---
+
+## 📈 Performance Evaluation
+
+- Training vs Validation Accuracy
+- Cross-Entropy Loss
+- Confusion Matrix
+- Precision / Recall / F1 Score
+- Top-1 Accuracy
+
+---
+
+## 🔍 Key Achievements
+
+- Improved classification accuracy using transfer learning
+- Reduced overfitting with dropout and augmentation
+- Fine-tuned pretrained model for domain-specific classification
+- Optimized hyperparameters for stable convergence
 
 
-- **Image Generation Using Diffusion Probabilistic Models**
-- This study focuses on image processing approaches and neural network models for item detection, including preprocessing, autoencoder-based feature extraction, and pre-trained CNNs.
-- The InceptionV3 model extracts features, which are then used to calculate cosine similarity and find comparable images.
-- The autoencoder develops a compact representation and captures crucial visual information despite significant loss.
-- The InceptionV3 model excels at feature extraction and efficient transfer learning for image recognition.
-- Future refinements could enhance these tactics for real-world applications.
 
 
 - **Object Detection of Sunglasses and Cap Using Faster R-CNN**
