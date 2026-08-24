@@ -4,14 +4,14 @@ Welcome to the repository for **Musani Susendranath Reddy**'s resume. This repos
 
 ## Contact Information
 
-- **Phone:** +1 (732) 629-9361
-- **Email:** susendrareddymusani@gmail.com
-- **LinkedIn:** [Musani Susendranath Reddy](https://www.linkedin.com/in/musani-susendranath-reddy-ab6494201)
+- **Phone:** +1 203 -654-5666
+- **Email:** susendramusani@gmail.com
+- **LinkedIn:** [Susendra M](https://www.linkedin.com/in/susendra/)
 - **GitHub:** [Susendramusani](https://github.com/Susendramusani)
 
 ## Professional Summary
 
-- AI/ML Engineer with 4+ years of experience delivering production-grade machine learning and Generative AI solutions, including enterprise-scale NLP systems that improved document processing efficiency by 40% and reduced manual review time by 30%.
+- AI/ML Engineer with 5+ years of experience delivering production-grade machine learning and Generative AI solutions, including enterprise-scale NLP systems that improved document processing efficiency by 40% and reduced manual review time by 30%.
 - Proven track record of building scalable ML pipelines using Spark, Airflow, FastAPI, and cloud platforms (AWS/GCP/Azure), enabling high-performance data processing across 100+ TB structured and unstructured datasets.
 - Specialized in LLMs, RAG architectures, and multimodal search systems, having deployed embedding-based semantic search and transformer-driven applications that enhanced retrieval accuracy and reduced inference latency in real-world enterprise environments.
 
